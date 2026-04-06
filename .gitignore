@@ -1,0 +1,11 @@
+.venv/
+Research/QNNs/project/data/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+Thumbs.db
+Desktop.ini
