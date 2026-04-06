@@ -1,4 +1,4 @@
-#Research on Quantum Computing
+- Research on Quantum Computing
 
 This project is focused on exploring how quantum computing concepts can be combined with transformer-based image models.
 Right now, the goal is not to build a perfect production-ready model, but to experiment with different hybrid quantum-classical architectures and understand how they compare with traditional deep learning approaches.
